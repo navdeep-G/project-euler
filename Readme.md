@@ -1,5 +1,4 @@
 #Project Euler Solutions
-=======================
 
 This package contains code to solve Project Euler problems.
 
