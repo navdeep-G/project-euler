@@ -16,7 +16,7 @@ public final class Problem2 implements EulerInterface {
 	 */
 	/* 
 	 * The Fibonacci sequence grows exponentially by a factor of 1.618, the sum is
-	 * bounded above by a small multiple of 4 million. 
+	 * bounded above by a small multiple of 4 million.
 	 */
 	public String run() {
 		int sum = 0;
