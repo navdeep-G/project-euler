@@ -1,0 +1,13 @@
+java/.gitattributes
+java/.gitignore
+java/build.gradle
+java/gradle/
+java/gradlew
+java/gradlew.bat
+java/settings.gradle
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
