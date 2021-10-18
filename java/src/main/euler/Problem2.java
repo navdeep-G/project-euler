@@ -1,4 +1,4 @@
-package main.euler;
+package euler;
 
 public final class Problem2 implements EulerInterface {
 	
