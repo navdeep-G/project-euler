@@ -1,4 +1,4 @@
-package main.euler;
+package euler;
 
 public interface EulerInterface {
 	
