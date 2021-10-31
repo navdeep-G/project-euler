@@ -1,1 +1,1 @@
-# Solutions to Project Euler problems
+# Solutions to Project Euler problems in Java
